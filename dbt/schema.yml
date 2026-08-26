@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: silver
+    schema: silver
+    tables:
+      - name: customer_events
+
+models:
+  - name: customer_360
+    columns:
+      - name: customer_id
+        tests:
+          - not_null
+          - unique
