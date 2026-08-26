@@ -37,6 +37,8 @@ Terraform --> AWS infrastructure
 GitHub Actions --> CI / tests / validation
 Bedrock --> AI-assisted event/customer insight summarization
 ```
+<img width="1536" height="1024" alt="Real-Time Customer 360 Data Platform" src="https://github.com/user-attachments/assets/49d1de4f-a54b-4c07-8177-a103039578cb" />
+
 
 ## What this demonstrates
 
