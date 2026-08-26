@@ -20,11 +20,18 @@ def summarize_with_bedrock(metrics: dict[str, Any]) -> str:
     if os.getenv("AI_ENABLED", "false").lower() != "true":
         return "AI insights disabled"
 
+    model_id = os.getenv("BEDROCK_MODEL_ID")
+    if not model_id:
+        raise KeyError("BEDROCK_MODEL_ID")
+
     import boto3
 
-    client = boto3.client("bedrock-runtime", region_name=os.getenv("AWS_REGION", "us-east-1"))
+    client = boto3.client(
+        "bedrock-runtime",
+        region_name=os.getenv("AWS_REGION", "us-east-1"),
+    )
     response = client.converse(
-        modelId=os.environ["BEDROCK_MODEL_ID"],
+        modelId=model_id,
         messages=[{"role": "user", "content": [{"text": build_insight_prompt(metrics)}]}],
         inferenceConfig={"maxTokens": 400, "temperature": 0.1},
     )
