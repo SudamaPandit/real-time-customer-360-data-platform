@@ -1,0 +1,11 @@
+name: customer_360
+version: "1.0.0"
+config-version: 2
+profile: customer_360
+
+model-paths: ["models"]
+clean-targets: ["target", "dbt_packages"]
+
+models:
+  customer_360:
+    +materialized: view

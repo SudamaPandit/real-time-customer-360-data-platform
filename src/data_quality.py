@@ -9,13 +9,20 @@ def validate_event_batch(df: pd.DataFrame) -> dict[str, int]:
     if missing:
         raise ValueError(f"Missing columns: {sorted(missing)}")
 
+    event_ids = df["event_id"].astype("string").str.strip()
+    customer_ids = df["customer_id"].astype("string").str.strip()
+    event_types = df["event_type"].astype("string").str.strip()
     metrics = {
         "row_count": int(len(df)),
-        "null_event_ids": int(df["event_id"].isna().sum()),
-        "duplicate_event_ids": int(df["event_id"].duplicated().sum()),
-        "null_customer_ids": int(df["customer_id"].isna().sum()),
-        "invalid_timestamps": int(pd.to_datetime(df["event_ts"], utc=True, errors="coerce").isna().sum()),
+        "blank_event_ids": int((event_ids.isna() | event_ids.eq("")).sum()),
+        "duplicate_event_ids": int(event_ids.duplicated().sum()),
+        "blank_customer_ids": int((customer_ids.isna() | customer_ids.eq("")).sum()),
+        "blank_event_types": int((event_types.isna() | event_types.eq("")).sum()),
+        "invalid_timestamps": int(
+            pd.to_datetime(df["event_ts"], utc=True, errors="coerce").isna().sum()
+        ),
     }
-    if metrics["null_event_ids"] or metrics["duplicate_event_ids"] or metrics["null_customer_ids"]:
+    failing = {name: value for name, value in metrics.items() if name != "row_count" and value}
+    if not metrics["row_count"] or failing:
         raise ValueError(f"Event quality gate failed: {metrics}")
     return metrics
