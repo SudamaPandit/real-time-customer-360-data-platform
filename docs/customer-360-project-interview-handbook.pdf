@@ -1,0 +1,1220 @@
+%PDF-1.7
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R /Outlines 63 0 R /PageMode /UseOutlines >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 22 /Kids [7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+6 0 obj
+<< /Length 1377 >>
+stream
+0.055 0.11 0.20 rg 0 750 612 42 re f
+BT /FB 11 Tf 1 1 1 rg 52 766 Td (Real-Time Customer 360) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 52 26 Td (Interview Handbook | SudamaPandit/real-time-customer-360-data-platform) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 535 26 Td (1) Tj ET
+BT /FB 22 Tf 0.06 0.20 0.36 rg 52 718 Td (Real-Time Customer 360 - Complete Guide) Tj ET
+0.96 0.48 0.10 rg 52 704 72 3 re f
+0.96 0.48 0.10 rg 52 640 95 5 re f
+BT /FB 32 Tf 0.055 0.11 0.20 rg 52 590 Td (Real-Time Customer 360) Tj ET
+BT /FB 20 Tf 0.06 0.27 0.48 rg 52 548 Td (Complete Project Guide) Tj ET
+BT /FB 20 Tf 0.06 0.27 0.48 rg 52 518 Td (& Interview Handbook) Tj ET
+BT /FR 12 Tf 0.30 0.34 0.39 rg 52 460 Td (Prepared for Sudama Pandit) Tj ET
+BT /FR 10 Tf 0.30 0.34 0.39 rg 52 438 Td (SudamaPandit/real-time-customer-360-data-platform) Tj ET
+0.94 0.96 0.98 rg 52 310 508 82 re f
+BT /FB 11 Tf 0.08 0.25 0.43 rg 68 365 Td (POSITIONING) Tj ET
+BT /FR 10 Tf 0.12 0.15 0.19 rg 68 345 Td (The repository demonstrates streaming graph construction, contracts, offline) Tj ET
+BT /FR 10 Tf 0.12 0.15 0.19 rg 68 331 Td (quality checks, aggregation, a dbt model and S3 Terraform. It does not include a) Tj ET
+BT /FR 10 Tf 0.12 0.15 0.19 rg 68 317 Td (running Kafka/Spark stack, quarantine sink, serving database implementation or) Tj ET
+BT /FR 10 Tf 0.12 0.15 0.19 rg 68 303 Td (reconciliation orchestration.) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /FR 3 0 R /FB 4 0 R /FM 5 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 1214 >>
+stream
+0.055 0.11 0.20 rg 0 750 612 42 re f
+BT /FB 11 Tf 1 1 1 rg 52 766 Td (Real-Time Customer 360) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 52 26 Td (Interview Handbook | SudamaPandit/real-time-customer-360-data-platform) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 535 26 Td (2) Tj ET
+BT /FB 22 Tf 0.06 0.20 0.36 rg 52 718 Td (Clickable Contents) Tj ET
+0.96 0.48 0.10 rg 52 704 72 3 re f
+BT /FB 11 Tf 0.08 0.25 0.43 rg 64 675 Td (1. Executive summary) Tj ET
+0.82 0.86 0.90 RG 0.5 w 64 670 m 545 670 l S
+BT /FB 11 Tf 0.08 0.25 0.43 rg 64 633 Td (2. Beginner foundations) Tj ET
+0.82 0.86 0.90 RG 0.5 w 64 628 m 545 628 l S
+BT /FB 11 Tf 0.08 0.25 0.43 rg 64 591 Td (3. Architecture diagram) Tj ET
+0.82 0.86 0.90 RG 0.5 w 64 586 m 545 586 l S
+BT /FB 11 Tf 0.08 0.25 0.43 rg 64 549 Td (4. End-to-end data flow) Tj ET
+0.82 0.86 0.90 RG 0.5 w 64 544 m 545 544 l S
+BT /FB 11 Tf 0.08 0.25 0.43 rg 64 507 Td (5. Repository structure) Tj ET
+0.82 0.86 0.90 RG 0.5 w 64 502 m 545 502 l S
+BT /FB 11 Tf 0.08 0.25 0.43 rg 64 465 Td (6. Folder-wise code walkthrough) Tj ET
+0.82 0.86 0.90 RG 0.5 w 64 460 m 545 460 l S
+BT /FB 11 Tf 0.08 0.25 0.43 rg 64 423 Td (7. Quality, reliability and security) Tj ET
+0.82 0.86 0.90 RG 0.5 w 64 418 m 545 418 l S
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /FR 3 0 R /FB 4 0 R /FM 5 0 R >> >> /Contents 8 0 R /Annots [50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R] >>
+endobj
+10 0 obj
+<< /Length 1100 >>
+stream
+0.055 0.11 0.20 rg 0 750 612 42 re f
+BT /FB 11 Tf 1 1 1 rg 52 766 Td (Real-Time Customer 360) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 52 26 Td (Interview Handbook | SudamaPandit/real-time-customer-360-data-platform) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 535 26 Td (3) Tj ET
+BT /FB 22 Tf 0.06 0.20 0.36 rg 52 718 Td (Clickable Contents \(continued\)) Tj ET
+0.96 0.48 0.10 rg 52 704 72 3 re f
+BT /FB 11 Tf 0.08 0.25 0.43 rg 64 690 Td (8. Testing and CI evidence) Tj ET
+0.82 0.86 0.90 RG 0.5 w 64 685 m 545 685 l S
+BT /FB 11 Tf 0.08 0.25 0.43 rg 64 648 Td (9. Gaps and critical risks) Tj ET
+0.82 0.86 0.90 RG 0.5 w 64 643 m 545 643 l S
+BT /FB 11 Tf 0.08 0.25 0.43 rg 64 606 Td (10. Production-ready redesign) Tj ET
+0.82 0.86 0.90 RG 0.5 w 64 601 m 545 601 l S
+BT /FB 11 Tf 0.08 0.25 0.43 rg 64 564 Td (11. Fifty interview questions) Tj ET
+0.82 0.86 0.90 RG 0.5 w 64 559 m 545 559 l S
+BT /FB 11 Tf 0.08 0.25 0.43 rg 64 522 Td (12. Rapid revision sheet) Tj ET
+0.82 0.86 0.90 RG 0.5 w 64 517 m 545 517 l S
+BT /FB 11 Tf 0.08 0.25 0.43 rg 64 480 Td (13. Glossary) Tj ET
+0.82 0.86 0.90 RG 0.5 w 64 475 m 545 475 l S
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /FR 3 0 R /FB 4 0 R /FM 5 0 R >> >> /Contents 10 0 R /Annots [57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R] >>
+endobj
+12 0 obj
+<< /Length 2876 >>
+stream
+0.055 0.11 0.20 rg 0 750 612 42 re f
+BT /FB 11 Tf 1 1 1 rg 52 766 Td (Real-Time Customer 360) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 52 26 Td (Interview Handbook | SudamaPandit/real-time-customer-360-data-platform) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 535 26 Td (4) Tj ET
+BT /FB 22 Tf 0.06 0.20 0.36 rg 52 718 Td (Executive Summary) Tj ET
+0.96 0.48 0.10 rg 52 704 72 3 re f
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 681 Td (What this project is) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 656 Td (A focused streaming example reads customer events from Kafka with Spark Structured Streaming,) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 643 Td (parses a defined event schema and writes valid events as event-date-partitioned Parquet.) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 630 Td (Python modules validate event contracts and offline batches, pandas builds customer summaries,) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 617 Td (dbt defines a customer-level aggregation, and Terraform provisions a versioned S3 bucket.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 599 Td (Business value) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 574 Td (Organizations receive customer activity from web, mobile and business systems. A Customer 360) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 561 Td (view summarizes behavior such as logins, purchases, event count and most recent activity so) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 548 Td (analytics and engagement teams can work with one customer-level dataset.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 530 Td (60-second interview introduction) Tj ET
+BT /FB 9.5 Tf 0.12 0.15 0.19 rg 52 505 Td (I built a focused Customer 360 streaming reference. Spark Structured Streaming reads Kafka) Tj ET
+BT /FB 9.5 Tf 0.12 0.15 0.19 rg 52 492 Td (events, parses a typed schema, filters invalid identifiers and timestamps, and writes valid) Tj ET
+BT /FB 9.5 Tf 0.12 0.15 0.19 rg 52 479 Td (events to checkpointed, date-partitioned Parquet. I added Python contracts, offline batch) Tj ET
+BT /FB 9.5 Tf 0.12 0.15 0.19 rg 52 466 Td (quality checks, a pandas aggregation, a dbt customer model and basic S3 Terraform. CI proves) Tj ET
+BT /FB 9.5 Tf 0.12 0.15 0.19 rg 52 453 Td (contract, quality and aggregation behavior, but the repository does not yet implement) Tj ET
+BT /FB 9.5 Tf 0.12 0.15 0.19 rg 52 440 Td (quarantine, a serving database or an end-to-end deployed Kafka/Spark environment.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 422 Td (Honest status) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 397 Td (The repository demonstrates streaming graph construction, contracts, offline quality checks,) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 384 Td (aggregation, a dbt model and S3 Terraform. It does not include a running Kafka/Spark stack,) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 371 Td (quarantine sink, serving database implementation or reconciliation orchestration.) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /FR 3 0 R /FB 4 0 R /FM 5 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 2399 >>
+stream
+0.055 0.11 0.20 rg 0 750 612 42 re f
+BT /FB 11 Tf 1 1 1 rg 52 766 Td (Real-Time Customer 360) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 52 26 Td (Interview Handbook | SudamaPandit/real-time-customer-360-data-platform) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 535 26 Td (5) Tj ET
+BT /FB 22 Tf 0.06 0.20 0.36 rg 52 718 Td (Beginner Foundations) Tj ET
+0.96 0.48 0.10 rg 52 704 72 3 re f
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 681 Td (Use this section to learn the vocabulary before studying the code. A data pipeline moves data) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 668 Td (through controlled stages. ETL means extract from a source, transform into a useful and) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 655 Td (reliable shape, and load into a destination.) Tj ET
+BT /FB 10 Tf 0.96 0.48 0.10 rg 52 637 Td (>) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 68 637 Td (Streaming processes unbounded events continuously; micro-batches are small bounded) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 68 625 Td (slices inside Spark.) Tj ET
+BT /FB 10 Tf 0.96 0.48 0.10 rg 52 610 Td (>) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 68 610 Td (Kafka topics are split into partitions; ordering is guaranteed only within one) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 68 598 Td (partition.) Tj ET
+BT /FB 10 Tf 0.96 0.48 0.10 rg 52 583 Td (>) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 68 583 Td (A Spark checkpoint stores offsets and query state so a restarted job can continue.) Tj ET
+BT /FB 10 Tf 0.96 0.48 0.10 rg 52 568 Td (>) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 68 568 Td (Event time is when the business event occurred; ingest time is when the platform) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 68 556 Td (observed it.) Tj ET
+BT /FB 10 Tf 0.96 0.48 0.10 rg 52 541 Td (>) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 68 541 Td (A Customer 360 is a consolidated customer-level view, not necessarily one physical) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 68 529 Td (database table.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 514 Td (How to study the repository) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 489 Td (First memorize the business flow, then trace one record through every component. Next learn) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 476 Td (which parts are actual runtime code, which are offline helpers, and which capabilities are) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 463 Td (missing. In interviews, evidence matters more than broad claims.) Tj ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /FR 3 0 R /FB 4 0 R /FM 5 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 3245 >>
+stream
+0.055 0.11 0.20 rg 0 750 612 42 re f
+BT /FB 11 Tf 1 1 1 rg 52 766 Td (Real-Time Customer 360) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 52 26 Td (Interview Handbook | SudamaPandit/real-time-customer-360-data-platform) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 535 26 Td (6) Tj ET
+BT /FB 22 Tf 0.06 0.20 0.36 rg 52 718 Td (Architecture Diagram) Tj ET
+0.96 0.48 0.10 rg 52 704 72 3 re f
+BT /FR 9.5 Tf 0.33 0.37 0.43 rg 52 681 Td (The solid flow is implemented in code. Dashed or lighter notes mark external dependencies or) Tj ET
+BT /FR 9.5 Tf 0.33 0.37 0.43 rg 52 668 Td (incomplete production capabilities.) Tj ET
+0.98 0.93 0.86 rg 35 470 94 48 re f
+0.10 0.30 0.50 RG 1 w 35 470 94 48 re S
+BT /FB 8 Tf 0.08 0.18 0.28 rg 42 500 Td (Event) Tj ET
+BT /FB 8 Tf 0.08 0.18 0.28 rg 42 490 Td (producers) Tj ET
+0.96 0.48 0.10 RG 2 w 129 494 m 136 494 l S
+0.96 0.48 0.10 rg 132 490 7 8 re f
+0.90 0.95 0.99 rg 139 470 94 48 re f
+0.10 0.30 0.50 RG 1 w 139 470 94 48 re S
+BT /FB 8 Tf 0.08 0.18 0.28 rg 146 500 Td (Kafka) Tj ET
+BT /FB 8 Tf 0.08 0.18 0.28 rg 146 490 Td (topic) Tj ET
+0.96 0.48 0.10 RG 2 w 233 494 m 240 494 l S
+0.96 0.48 0.10 rg 236 490 7 8 re f
+0.98 0.93 0.86 rg 243 470 94 48 re f
+0.10 0.30 0.50 RG 1 w 243 470 94 48 re S
+BT /FB 8 Tf 0.08 0.18 0.28 rg 250 500 Td (Spark) Tj ET
+BT /FB 8 Tf 0.08 0.18 0.28 rg 250 490 Td (stream) Tj ET
+0.96 0.48 0.10 RG 2 w 337 494 m 344 494 l S
+0.96 0.48 0.10 rg 340 490 7 8 re f
+0.90 0.95 0.99 rg 347 470 94 48 re f
+0.10 0.30 0.50 RG 1 w 347 470 94 48 re S
+BT /FB 8 Tf 0.08 0.18 0.28 rg 354 500 Td (Parquet) Tj ET
+BT /FB 8 Tf 0.08 0.18 0.28 rg 354 490 Td (valid events) Tj ET
+0.96 0.48 0.10 RG 2 w 441 494 m 448 494 l S
+0.96 0.48 0.10 rg 444 490 7 8 re f
+0.98 0.93 0.86 rg 451 470 94 48 re f
+0.10 0.30 0.50 RG 1 w 451 470 94 48 re S
+BT /FB 8 Tf 0.08 0.18 0.28 rg 458 500 Td (dbt / pandas) Tj ET
+BT /FB 8 Tf 0.08 0.18 0.28 rg 458 490 Td (Customer 360) Tj ET
+0.91 0.95 0.98 rg 118 585 376 55 re f
+0.10 0.30 0.50 RG 1 w 118 585 376 55 re S
+BT /FB 11 Tf 0.08 0.18 0.28 rg 140 616 Td (CHECKPOINT + CONTRACT LAYER: parsing, valid filtering, offline quality tests) Tj ET
+BT /FR 8.5 Tf 0.20 0.25 0.31 rg 140 598 Td (Invalid Spark records are filtered, not persisted to quarantine in the current code.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 650 Td (How to explain this diagram) Tj ET
+BT /FB 10 Tf 0.96 0.48 0.10 rg 52 625 Td (>) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 68 625 Td (Producers are expected to send JSON events with IDs, type, timestamp and payload.) Tj ET
+BT /FB 10 Tf 0.96 0.48 0.10 rg 52 610 Td (>) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 68 610 Td (Kafka provides ordered partitions and decouples producers from the Spark consumer.) Tj ET
+BT /FB 10 Tf 0.96 0.48 0.10 rg 52 595 Td (>) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 68 595 Td (Spark parses a StructType and adds ingestion date fields.) Tj ET
+BT /FB 10 Tf 0.96 0.48 0.10 rg 52 580 Td (>) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 68 580 Td (Only valid rows are written to partitioned Parquet with a checkpoint.) Tj ET
+BT /FB 10 Tf 0.96 0.48 0.10 rg 52 565 Td (>) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 68 565 Td (dbt and pandas offer separate customer aggregation paths; no serving database load is) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 68 553 Td (included.) Tj ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /FR 3 0 R /FB 4 0 R /FM 5 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 2362 >>
+stream
+0.055 0.11 0.20 rg 0 750 612 42 re f
+BT /FB 11 Tf 1 1 1 rg 52 766 Td (Real-Time Customer 360) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 52 26 Td (Interview Handbook | SudamaPandit/real-time-customer-360-data-platform) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 535 26 Td (7) Tj ET
+BT /FB 22 Tf 0.06 0.20 0.36 rg 52 718 Td (End-to-End Data Flow) Tj ET
+0.96 0.48 0.10 rg 52 704 72 3 re f
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 681 Td (Step 1 - Event contract) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 656 Td (Each event should contain event_id, customer_id, event_type, event_ts and payload. The Python) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 643 Td (contract normalizes IDs/type and validates ISO timestamps.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 625 Td (Step 2 - Kafka ingestion) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 600 Td (Spark readStream subscribes to the topic with startingOffsets=latest. That setting processes) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 587 Td (new data for a fresh checkpoint rather than historical backlog.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 569 Td (Step 3 - JSON parsing) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 544 Td (Spark from_json applies a StructType and selects event fields. ingest_ts and event_date are) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 531 Td (derived.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 513 Td (Step 4 - Valid-event filtering) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 488 Td (The streaming graph keeps non-null event_id, customer_id and event_ts. Invalid rows are) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 475 Td (currently dropped, not quarantined.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 457 Td (Step 5 - Stateful continuity and output) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 432 Td (writeStream writes append-mode Parquet partitioned by event_date and stores checkpoint state) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 419 Td (at the configured checkpoint location.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 401 Td (Step 6 - Customer aggregation) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 376 Td (The pandas helper deduplicates event_id and calculates event_count, last_event_ts,) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 363 Td (purchase_count, login_count and customer_status. The dbt model computes similar SQL metrics) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 350 Td (from an external silver source.) Tj ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /FR 3 0 R /FB 4 0 R /FM 5 0 R >> >> /Contents 18 0 R >>
+endobj
+20 0 obj
+<< /Length 3800 >>
+stream
+0.055 0.11 0.20 rg 0 750 612 42 re f
+BT /FB 11 Tf 1 1 1 rg 52 766 Td (Real-Time Customer 360) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 52 26 Td (Interview Handbook | SudamaPandit/real-time-customer-360-data-platform) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 535 26 Td (8) Tj ET
+BT /FB 22 Tf 0.06 0.20 0.36 rg 52 718 Td (Repository Structure) Tj ET
+0.96 0.48 0.10 rg 52 704 72 3 re f
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 681 Td (This table explains what every important folder contributes and whether it is used by the main) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 668 Td (runtime path.) Tj ET
+0.08 0.25 0.43 rg 52 634 510 20 re f
+BT /FB 8 Tf 1 1 1 rg 57 642 Td (Path) Tj ET
+BT /FB 8 Tf 1 1 1 rg 202 642 Td (Purpose) Tj ET
+BT /FB 8 Tf 1 1 1 rg 407 642 Td (Runtime truth) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 622 Td (.github/workflows/ci.yml) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 202 622 Td (Compile and pytest) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 407 622 Td (Offline CI) Tj ET
+0.96 0.97 0.98 rg 52 584 510 30 re f
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 602 Td (src/contracts.py) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 202 602 Td (Single-event validation/normalization) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 407 602 Td (Used by Python callers/tests;) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 407 592 Td (not Spark UDF) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 572 Td (src/stream_processor.py) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 202 572 Td (Kafka-to-Parquet Spark graph) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 407 572 Td (Main streaming builder; not) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 407 562 Td (executed in CI) Tj ET
+0.96 0.97 0.98 rg 52 534 510 20 re f
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 542 Td (src/data_quality.py) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 202 542 Td (Offline batch gate) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 407 542 Td (Unit-tested) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 522 Td (src/customer_360.py) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 202 522 Td (Pandas customer aggregation) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 407 522 Td (Unit-tested) Tj ET
+0.96 0.97 0.98 rg 52 494 510 20 re f
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 502 Td (src/ai_insights.py) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 202 502 Td (Optional aggregate Bedrock summary) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 407 502 Td (Disabled by default) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 482 Td (dbt/dbt_project.yml) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 202 482 Td (dbt project configuration) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 407 482 Td (Executable with external) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 407 472 Td (profile) Tj ET
+0.96 0.97 0.98 rg 52 444 510 20 re f
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 452 Td (dbt/models/customer_360.sql) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 202 452 Td (Customer-level SQL model) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 407 452 Td (Requires silver source) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 432 Td (dbt/schema.yml) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 202 432 Td (Source/model tests) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 407 432 Td (Not run in current CI) Tj ET
+0.96 0.97 0.98 rg 52 404 510 20 re f
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 412 Td (infra/terraform/main.tf) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 202 412 Td (Versioned S3 bucket) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 407 412 Td (Not applied by CI) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 392 Td (requirements-runtime.txt) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 202 392 Td (Spark/Kafka/AWS packages) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 407 392 Td (Not installed by unit CI) Tj ET
+0.96 0.97 0.98 rg 52 364 510 20 re f
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 372 Td (tests/) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 202 372 Td (Contracts, quality, aggregation, AI) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 407 372 Td (Runs in CI) Tj ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /FR 3 0 R /FB 4 0 R /FM 5 0 R >> >> /Contents 20 0 R >>
+endobj
+22 0 obj
+<< /Length 4181 >>
+stream
+0.055 0.11 0.20 rg 0 750 612 42 re f
+BT /FB 11 Tf 1 1 1 rg 52 766 Td (Real-Time Customer 360) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 52 26 Td (Interview Handbook | SudamaPandit/real-time-customer-360-data-platform) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 535 26 Td (9) Tj ET
+BT /FB 22 Tf 0.06 0.20 0.36 rg 52 718 Td (Folder-wise Code Walkthrough) Tj ET
+0.96 0.48 0.10 rg 52 704 72 3 re f
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 681 Td (src/contracts.py) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 656 Td (Validates one Python event, parses ISO time, strips IDs and lowercases the type.) Tj ET
+0.955 0.965 0.975 rg 46 600 520 46 re f
+0.80 0.84 0.88 RG 0.6 w 46 600 520 46 re S
+BT /FM 7.6 Tf 0.12 0.20 0.28 rg 52 638 Td (required = {"event_id", "customer_id", "event_type", "event_ts", "payload"}) Tj ET
+BT /FM 7.6 Tf 0.12 0.20 0.28 rg 52 628 Td (event_ts = datetime.fromisoformat\(value.replace\("Z", "+00:00"\)\)) Tj ET
+BT /FM 7.6 Tf 0.12 0.20 0.28 rg 52 618 Td (event_type = str\(event["event_type"]\).strip\(\).lower\(\)) Tj ET
+BT /FR 9.5 Tf 0.33 0.37 0.43 rg 52 590 Td (Interview meaning: This contract is not automatically executed inside the Spark graph; parity) Tj ET
+BT /FR 9.5 Tf 0.33 0.37 0.43 rg 52 577 Td (tests are needed.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 559 Td (src/stream_processor.py) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 534 Td (Builds but does not start a Structured Streaming writer, keeping construction separate from) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 521 Td (deployment.) Tj ET
+0.955 0.965 0.975 rg 46 435 520 76 re f
+0.80 0.84 0.88 RG 0.6 w 46 435 520 76 re S
+BT /FM 7.6 Tf 0.12 0.20 0.28 rg 52 503 Td (spark.readStream.format\("kafka"\)) Tj ET
+BT /FM 7.6 Tf 0.12 0.20 0.28 rg 52 493 Td (.option\("subscribe", topic\)) Tj ET
+BT /FM 7.6 Tf 0.12 0.20 0.28 rg 52 483 Td (.load\(\)) Tj ET
+BT /FM 7.6 Tf 0.12 0.20 0.28 rg 52 473 Td (...) Tj ET
+BT /FM 7.6 Tf 0.12 0.20 0.28 rg 52 463 Td (valid.writeStream.format\("parquet"\)) Tj ET
+BT /FM 7.6 Tf 0.12 0.20 0.28 rg 52 453 Td (.option\("checkpointLocation", checkpoint_path\)) Tj ET
+BT /FR 9.5 Tf 0.33 0.37 0.43 rg 52 425 Td (Interview meaning: The function returns a writer; an external entry point must call start and) Tj ET
+BT /FR 9.5 Tf 0.33 0.37 0.43 rg 52 412 Td (manage termination.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 394 Td (src/data_quality.py) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 369 Td (Calculates counts for blank IDs/types, duplicates and invalid timestamps, and fails on an) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 356 Td (empty or bad batch.) Tj ET
+0.955 0.965 0.975 rg 46 290 520 56 re f
+0.80 0.84 0.88 RG 0.6 w 46 290 520 56 re S
+BT /FM 7.6 Tf 0.12 0.20 0.28 rg 52 338 Td (failing = {name: value for name, value in metrics.items\(\)) Tj ET
+BT /FM 7.6 Tf 0.12 0.20 0.28 rg 52 328 Td (if name != "row_count" and value}) Tj ET
+BT /FM 7.6 Tf 0.12 0.20 0.28 rg 52 318 Td (if not metrics["row_count"] or failing:) Tj ET
+BT /FM 7.6 Tf 0.12 0.20 0.28 rg 52 308 Td (raise ValueError\(...\)) Tj ET
+BT /FR 9.5 Tf 0.33 0.37 0.43 rg 52 280 Td (Interview meaning: Useful for replays and batch checks, but not wired to the live stream.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 262 Td (src/customer_360.py) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 237 Td (Deduplicates event IDs, groups by customer and derives simple engagement metrics.) Tj ET
+0.955 0.965 0.975 rg 46 171 520 56 re f
+0.80 0.84 0.88 RG 0.6 w 46 171 520 56 re S
+BT /FM 7.6 Tf 0.12 0.20 0.28 rg 52 219 Td (groupby\("customer_id"\).agg\() Tj ET
+BT /FM 7.6 Tf 0.12 0.20 0.28 rg 52 209 Td (event_count=\("event_id", "count"\),) Tj ET
+BT /FM 7.6 Tf 0.12 0.20 0.28 rg 52 199 Td (last_event_ts=\("event_ts", "max"\),) Tj ET
+BT /FM 7.6 Tf 0.12 0.20 0.28 rg 52 189 Td (purchase_count=\("event_type", lambda s: \(s == "purchase"\).sum\(\)\)\)) Tj ET
+BT /FR 9.5 Tf 0.33 0.37 0.43 rg 52 161 Td (Interview meaning: This is an offline pandas path and will not scale as the serving) Tj ET
+BT /FR 9.5 Tf 0.33 0.37 0.43 rg 52 148 Td (implementation.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 130 Td (dbt/models/customer_360.sql) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 105 Td (Defines a warehouse-side aggregation over silver.customer_events.) Tj ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /FR 3 0 R /FB 4 0 R /FM 5 0 R >> >> /Contents 22 0 R >>
+endobj
+24 0 obj
+<< /Length 1874 >>
+stream
+0.055 0.11 0.20 rg 0 750 612 42 re f
+BT /FB 11 Tf 1 1 1 rg 52 766 Td (Real-Time Customer 360) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 52 26 Td (Interview Handbook | SudamaPandit/real-time-customer-360-data-platform) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 535 26 Td (10) Tj ET
+BT /FB 22 Tf 0.06 0.20 0.36 rg 52 718 Td (Continued) Tj ET
+0.96 0.48 0.10 rg 52 704 72 3 re f
+0.955 0.965 0.975 rg 46 623 520 66 re f
+0.80 0.84 0.88 RG 0.6 w 46 623 520 66 re S
+BT /FM 7.6 Tf 0.12 0.20 0.28 rg 52 681 Td (select customer_id, count\(*\) as event_count,) Tj ET
+BT /FM 7.6 Tf 0.12 0.20 0.28 rg 52 671 Td (max\(event_ts\) as last_event_ts,) Tj ET
+BT /FM 7.6 Tf 0.12 0.20 0.28 rg 52 661 Td (sum\(case when event_type = 'purchase' then 1 else 0 end\) as purchase_count) Tj ET
+BT /FM 7.6 Tf 0.12 0.20 0.28 rg 52 651 Td (from {{ source\('silver', 'customer_events'\) }}) Tj ET
+BT /FM 7.6 Tf 0.12 0.20 0.28 rg 52 641 Td (group by customer_id) Tj ET
+BT /FR 9.5 Tf 0.33 0.37 0.43 rg 52 613 Td (Interview meaning: The external silver source and dbt profile must exist; current CI does not) Tj ET
+BT /FR 9.5 Tf 0.33 0.37 0.43 rg 52 600 Td (run dbt.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 582 Td (infra/terraform/main.tf) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 557 Td (Creates a named S3 bucket and enables versioning.) Tj ET
+0.955 0.965 0.975 rg 46 491 520 56 re f
+0.80 0.84 0.88 RG 0.6 w 46 491 520 56 re S
+BT /FM 7.6 Tf 0.12 0.20 0.28 rg 52 539 Td (resource "aws_s3_bucket" "customer_360" { ... }) Tj ET
+BT /FM 7.6 Tf 0.12 0.20 0.28 rg 52 529 Td (resource "aws_s3_bucket_versioning" "customer_360" {) Tj ET
+BT /FM 7.6 Tf 0.12 0.20 0.28 rg 52 519 Td (versioning_configuration { status = "Enabled" }) Tj ET
+BT /FM 7.6 Tf 0.12 0.20 0.28 rg 52 509 Td (}) Tj ET
+BT /FR 9.5 Tf 0.33 0.37 0.43 rg 52 481 Td (Interview meaning: Terraform covers S3 only, not Kafka, Spark, IAM, logging or networking.) Tj ET
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /FR 3 0 R /FB 4 0 R /FM 5 0 R >> >> /Contents 24 0 R >>
+endobj
+26 0 obj
+<< /Length 2640 >>
+stream
+0.055 0.11 0.20 rg 0 750 612 42 re f
+BT /FB 11 Tf 1 1 1 rg 52 766 Td (Real-Time Customer 360) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 52 26 Td (Interview Handbook | SudamaPandit/real-time-customer-360-data-platform) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 535 26 Td (11) Tj ET
+BT /FB 22 Tf 0.06 0.20 0.36 rg 52 718 Td (Quality, Reliability and Security) Tj ET
+0.96 0.48 0.10 rg 52 704 72 3 re f
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 681 Td (Event contract) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 656 Td (Python validation is explicit and produces clear errors. Spark uses a similar but smaller null) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 643 Td (filter, so contract parity is incomplete.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 625 Td (Checkpointing) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 600 Td (The writer accepts a checkpoint location, which is required for recovery. Exactly-once) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 587 Td (behavior still depends on a stable checkpoint and sink semantics.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 569 Td (Deduplication) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 544 Td (The pandas aggregate drops duplicate event_id. The live Spark stream does not) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 531 Td (watermark/dropDuplicates, so duplicates can reach Parquet.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 513 Td (Late data) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 488 Td (event_date comes from event_ts, but no withWatermark/window logic exists. Late-event policy is) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 475 Td (not implemented.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 457 Td (Quarantine) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 432 Td (Invalid streaming records are filtered and lost. A production pipeline should persist the raw) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 419 Td (value, reason and metadata.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 401 Td (Privacy) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 376 Td (payload is represented as a string in Spark and an object in Python. Sensitive payload) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 363 Td (governance must be explicit before wider use.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 345 Td (Security baseline) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 320 Td (No real credentials should be stored in Git. Runtime identities should use least-privilege) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 307 Td (roles, secrets should come from a managed secret backend, logs should avoid raw personal data,) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 294 Td (and CI permissions should remain read-only unless a workflow genuinely needs write access.) Tj ET
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /FR 3 0 R /FB 4 0 R /FM 5 0 R >> >> /Contents 26 0 R >>
+endobj
+28 0 obj
+<< /Length 4135 >>
+stream
+0.055 0.11 0.20 rg 0 750 612 42 re f
+BT /FB 11 Tf 1 1 1 rg 52 766 Td (Real-Time Customer 360) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 52 26 Td (Interview Handbook | SudamaPandit/real-time-customer-360-data-platform) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 535 26 Td (12) Tj ET
+BT /FB 22 Tf 0.06 0.20 0.36 rg 52 718 Td (Testing and CI Evidence) Tj ET
+0.96 0.48 0.10 rg 52 704 72 3 re f
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 681 Td (A passing CI badge proves only the checks that CI actually executes. It is not proof of) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 668 Td (deployment or end-to-end service integration.) Tj ET
+0.08 0.25 0.43 rg 52 634 510 20 re f
+BT /FB 8 Tf 1 1 1 rg 57 642 Td (Area) Tj ET
+BT /FB 8 Tf 1 1 1 rg 207 642 Td (Evidence) Tj ET
+BT /FB 8 Tf 1 1 1 rg 387 642 Td (What it does not prove) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 622 Td (Contract) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 207 622 Td (Valid normalization and invalid) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 207 612 Td (timestamp/payload/IDs) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 387 622 Td (Spark contract parity) Tj ET
+0.96 0.97 0.98 rg 52 564 510 40 re f
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 592 Td (Batch quality) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 207 592 Td (Counts and failures for blanks,) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 207 582 Td (duplicates, invalid time, empty) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 207 572 Td (input) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 387 592 Td (Live streaming gate) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 552 Td (Customer aggregate) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 207 552 Td (Deduplication and purchase/status) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 207 542 Td (metrics) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 387 552 Td (Warehouse or serving load) Tj ET
+0.96 0.97 0.98 rg 52 504 510 30 re f
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 522 Td (AI config) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 207 522 Td (Disabled path and missing model) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 207 512 Td (behavior) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 387 522 Td (Live Bedrock response) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 492 Td (CI compile) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 207 492 Td (Python syntax under src) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 387 492 Td (PySpark graph construction) Tj ET
+0.96 0.97 0.98 rg 52 454 510 30 re f
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 472 Td (dbt/Terraform) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 207 472 Td (Not run) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 387 472 Td (SQL model validity or) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 387 462 Td (infrastructure plan) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 442 Td (Best interview wording) Tj ET
+BT /FB 9.5 Tf 0.12 0.15 0.19 rg 52 417 Td (I tested the pure Python contract, offline batch quality rules, customer-level aggregation and) Tj ET
+BT /FB 9.5 Tf 0.12 0.15 0.19 rg 52 404 Td (safe AI configuration behavior. CI passes without Kafka, Spark, AWS or a database. I would not) Tj ET
+BT /FB 9.5 Tf 0.12 0.15 0.19 rg 52 391 Td (claim an end-to-end stream test; the next evidence is a local Kafka/Spark checkpoint test, dbt) Tj ET
+BT /FB 9.5 Tf 0.12 0.15 0.19 rg 52 378 Td (build against ephemeral PostgreSQL and Terraform validation.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 360 Td (Tests to add next) Tj ET
+BT /FB 10 Tf 0.96 0.48 0.10 rg 52 335 Td (>) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 68 335 Td (Local Kafka plus Spark test with valid, malformed, duplicate and late events.) Tj ET
+BT /FB 10 Tf 0.96 0.48 0.10 rg 52 320 Td (>) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 68 320 Td (Checkpoint restart test proving offsets resume without unintended replay.) Tj ET
+BT /FB 10 Tf 0.96 0.48 0.10 rg 52 305 Td (>) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 68 305 Td (Contract parity test between Python validation and Spark accepted rows.) Tj ET
+BT /FB 10 Tf 0.96 0.48 0.10 rg 52 290 Td (>) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 68 290 Td (dbt build/test against an ephemeral warehouse schema.) Tj ET
+BT /FB 10 Tf 0.96 0.48 0.10 rg 52 275 Td (>) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 68 275 Td (terraform fmt/validate plus a staging plan and policy scan.) Tj ET
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /FR 3 0 R /FB 4 0 R /FM 5 0 R >> >> /Contents 28 0 R >>
+endobj
+30 0 obj
+<< /Length 3587 >>
+stream
+0.055 0.11 0.20 rg 0 750 612 42 re f
+BT /FB 11 Tf 1 1 1 rg 52 766 Td (Real-Time Customer 360) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 52 26 Td (Interview Handbook | SudamaPandit/real-time-customer-360-data-platform) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 535 26 Td (13) Tj ET
+BT /FB 22 Tf 0.06 0.20 0.36 rg 52 718 Td (Gaps and Critical Risks) Tj ET
+0.96 0.48 0.10 rg 52 704 72 3 re f
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 681 Td (These are not reasons to hide the project. They are the strongest discussion points because) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 668 Td (they show that you can distinguish a portfolio implementation from a production system.) Tj ET
+0.08 0.25 0.43 rg 52 634 530 20 re f
+BT /FB 8 Tf 1 1 1 rg 57 642 Td (Severity) Tj ET
+BT /FB 8 Tf 1 1 1 rg 127 642 Td (Risk) Tj ET
+BT /FB 8 Tf 1 1 1 rg 317 642 Td (Consequence / response) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 622 Td (Critical) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 127 622 Td (Invalid stream rows are silently) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 127 612 Td (filtered) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 317 622 Td (Data is lost without evidence; write a quarantine) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 317 612 Td (sink with reason codes.) Tj ET
+0.96 0.97 0.98 rg 52 574 530 30 re f
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 592 Td (High) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 127 592 Td (Live stream does not deduplicate) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 317 592 Td (Retries/producers can create duplicate events; add) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 317 582 Td (watermark plus dropDuplicates or sink idempotency.) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 562 Td (High) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 127 562 Td (No runnable stream entry point) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 317 562 Td (The graph is built but not started/deployed; add) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 317 552 Td (configuration, start/await and packaging.) Tj ET
+0.96 0.97 0.98 rg 52 514 530 30 re f
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 532 Td (High) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 127 532 Td (No end-to-end environment) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 317 532 Td (Kafka/Spark/S3 behavior is unproven; add) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 317 522 Td (integration and staging evidence.) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 502 Td (Medium) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 127 502 Td (Python and Spark contracts differ) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 317 502 Td (Accepted records can vary; create one schema and) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 317 492 Td (parity tests.) Tj ET
+0.96 0.97 0.98 rg 52 454 530 30 re f
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 472 Td (Medium) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 127 472 Td (No late-event policy) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 317 472 Td (Customer metrics can drift; define watermark,) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 317 462 Td (allowed lateness and reconciliation.) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 442 Td (Medium) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 127 442 Td (dbt source is external) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 317 442 Td (Model cannot run alone; provide profile/example and) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 317 432 Td (integration fixture.) Tj ET
+0.96 0.97 0.98 rg 52 394 530 30 re f
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 412 Td (Medium) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 127 412 Td (Terraform covers S3 only) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 317 412 Td (Missing IAM, encryption controls, Kafka, compute,) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 317 402 Td (logs and alarms.) Tj ET
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /FR 3 0 R /FB 4 0 R /FM 5 0 R >> >> /Contents 30 0 R >>
+endobj
+32 0 obj
+<< /Length 2306 >>
+stream
+0.055 0.11 0.20 rg 0 750 612 42 re f
+BT /FB 11 Tf 1 1 1 rg 52 766 Td (Real-Time Customer 360) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 52 26 Td (Interview Handbook | SudamaPandit/real-time-customer-360-data-platform) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 535 26 Td (14) Tj ET
+BT /FB 22 Tf 0.06 0.20 0.36 rg 52 718 Td (Production-Ready Redesign) Tj ET
+0.96 0.48 0.10 rg 52 704 72 3 re f
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 681 Td (Phase 1: Make ingestion observable) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 656 Td (Persist raw Kafka metadata and invalid records, add structured metrics and define a versioned) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 643 Td (event contract.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 625 Td (Phase 2: Add streaming correctness) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 600 Td (Use stable checkpoints, watermark/deduplication, late-data handling and idempotent downstream) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 587 Td (publication.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 569 Td (Phase 3: Prove locally) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 544 Td (Run Kafka/Spark integration fixtures, restart tests and contract parity tests; run dbt against) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 531 Td (ephemeral storage.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 513 Td (Phase 4: Complete infrastructure) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 488 Td (Provision MSK or an alternative, Spark runtime, S3 encryption/lifecycle, IAM, networking, logs) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 475 Td (and alarms.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 457 Td (Phase 5: Build serving and reconciliation) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 432 Td (Load a scalable customer store/warehouse, reconcile streaming results from durable history and) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 419 Td (document SLAs.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 401 Td (How to answer design follow-ups) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 376 Td (Use Context -> Decision -> Trade-off -> Evidence -> Next step. State what the repository) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 363 Td (demonstrates, cite the exact test or implementation, acknowledge the boundary, and explain the) Tj ET
+BT /FR 9.5 Tf 0.12 0.15 0.19 rg 52 350 Td (production change. Never invent deployment history.) Tj ET
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /FR 3 0 R /FB 4 0 R /FM 5 0 R >> >> /Contents 32 0 R >>
+endobj
+34 0 obj
+<< /Length 4706 >>
+stream
+0.055 0.11 0.20 rg 0 750 612 42 re f
+BT /FB 11 Tf 1 1 1 rg 52 766 Td (Real-Time Customer 360) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 52 26 Td (Interview Handbook | SudamaPandit/real-time-customer-360-data-platform) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 535 26 Td (15) Tj ET
+BT /FB 22 Tf 0.06 0.20 0.36 rg 52 718 Td (Fifty Interview Questions) Tj ET
+0.96 0.48 0.10 rg 52 704 72 3 re f
+BT /FR 9.5 Tf 0.33 0.37 0.43 rg 52 681 Td (The answers below are written as spoken interview responses. Learn the ideas rather than) Tj ET
+BT /FR 9.5 Tf 0.33 0.37 0.43 rg 52 668 Td (memorizing every word.) Tj ET
+0.96 0.48 0.10 rg 52 647 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 652 Td (1) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 650 Td (Explain the project end to end.) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 632 Td (Interview-ready answer: Customer events arrive in Kafka. Spark parses a defined schema, adds) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 620 Td (ingest and event dates, filters required fields and writes valid events to checkpointed,) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 608 Td (date-partitioned Parquet. Python and dbt modules then demonstrate customer-level) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 596 Td (aggregation.) Tj ET
+0.96 0.48 0.10 rg 52 570 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 575 Td (2) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 573 Td (Is this truly real-time?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 555 Td (Interview-ready answer: It uses Spark Structured Streaming APIs, so it represents continuous) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 543 Td (micro-batch processing. The repository does not include a running cluster or measured) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 531 Td (latency, so I do not claim a production real-time SLA.) Tj ET
+0.96 0.48 0.10 rg 52 505 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 510 Td (3) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 508 Td (Why Kafka?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 490 Td (Interview-ready answer: Kafka decouples producers and consumers, retains ordered event logs) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 478 Td (per partition and lets the consumer scale by partitions. The deployment and topic) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 466 Td (configuration are external to this repository.) Tj ET
+0.96 0.48 0.10 rg 52 440 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 445 Td (4) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 443 Td (What does startingOffsets=latest mean?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 425 Td (Interview-ready answer: For a new checkpoint, Spark begins with events arriving after the) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 413 Td (query starts. Existing checkpoint state takes precedence. For backfills I would use a) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 401 Td (separate bounded replay strategy.) Tj ET
+0.96 0.48 0.10 rg 52 375 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 380 Td (5) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 378 Td (How does checkpointing help?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 360 Td (Interview-ready answer: Spark stores processed offsets and state at the checkpoint location) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 348 Td (so a restarted query can resume. The location must be durable, unique per query and) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 336 Td (protected from accidental reuse or deletion.) Tj ET
+0.96 0.48 0.10 rg 52 310 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 315 Td (6) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 313 Td (Do you guarantee exactly once?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 295 Td (Interview-ready answer: No end-to-end guarantee is proven. Spark checkpointing gives strong) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 283 Td (internal recovery semantics, but source behavior, file sink commits and downstream consumers) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 271 Td (must all be designed and tested.) Tj ET
+0.96 0.48 0.10 rg 52 245 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 250 Td (7) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 248 Td (What happens to invalid events?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 230 Td (Interview-ready answer: The current Spark graph filters them out, which is a known gap. I) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 218 Td (would write invalid raw values and reason codes to a quarantine path or topic.) Tj ET
+0.96 0.48 0.10 rg 52 192 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 197 Td (8) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 195 Td (Why is silent filtering dangerous?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 177 Td (Interview-ready answer: It hides producer defects and makes reconciliation impossible.) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 165 Td (Operators need reject counts, samples, ownership and replay capability.) Tj ET
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /FR 3 0 R /FB 4 0 R /FM 5 0 R >> >> /Contents 34 0 R >>
+endobj
+36 0 obj
+<< /Length 4660 >>
+stream
+0.055 0.11 0.20 rg 0 750 612 42 re f
+BT /FB 11 Tf 1 1 1 rg 52 766 Td (Real-Time Customer 360) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 52 26 Td (Interview Handbook | SudamaPandit/real-time-customer-360-data-platform) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 535 26 Td (16) Tj ET
+BT /FB 22 Tf 0.06 0.20 0.36 rg 52 718 Td (Interview Questions \(continued\)) Tj ET
+0.96 0.48 0.10 rg 52 704 72 3 re f
+0.96 0.48 0.10 rg 52 678 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 683 Td (9) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 681 Td (Are duplicates handled live?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 663 Td (Interview-ready answer: No. The pandas aggregation deduplicates event_id, but the live Spark) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 651 Td (graph does not. I would add watermark plus dropDuplicates or an idempotent sink keyed by) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 639 Td (event_id.) Tj ET
+0.96 0.48 0.10 rg 52 613 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 618 Td (10) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 616 Td (How would you handle late events?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 598 Td (Interview-ready answer: I would define allowed lateness, apply an event-time watermark,) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 586 Td (update windowed/stateful results within that boundary and route very late data to) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 574 Td (replay/reconciliation.) Tj ET
+0.96 0.48 0.10 rg 52 548 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 553 Td (11) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 551 Td (What is the difference between event_ts and ingest_ts?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 533 Td (Interview-ready answer: event_ts is when the activity occurred; ingest_ts is when the) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 521 Td (pipeline processed it. Their difference is useful for lag and late-arrival monitoring.) Tj ET
+0.96 0.48 0.10 rg 52 495 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 500 Td (12) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 498 Td (Why partition Parquet by event_date?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 480 Td (Interview-ready answer: It aligns storage with time-based replay and analytics, reducing) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 468 Td (scans. I would monitor file sizes and compact small files.) Tj ET
+0.96 0.48 0.10 rg 52 442 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 447 Td (13) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 445 Td (How does the Customer 360 aggregation work?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 427 Td (Interview-ready answer: It groups deduplicated events by customer and calculates count, most) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 415 Td (recent timestamp, purchase count and login count, then derives a simple status.) Tj ET
+0.96 0.48 0.10 rg 52 389 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 394 Td (14) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 392 Td (Why have both pandas and dbt aggregation?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 374 Td (Interview-ready answer: Pandas makes logic easy to unit-test offline; dbt shows the) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 362 Td (warehouse-side model. They are alternative paths and need parity tests rather than being) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 350 Td (presented as one deployed flow.) Tj ET
+0.96 0.48 0.10 rg 52 324 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 329 Td (15) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 327 Td (Where is the serving database?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 309 Td (Interview-ready answer: It is not implemented. The current outputs are Parquet and) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 297 Td (transformation examples. A production design would load an analytical warehouse or) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 285 Td (customer-serving store.) Tj ET
+0.96 0.48 0.10 rg 52 259 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 264 Td (16) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 262 Td (Does Terraform deploy the platform?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 244 Td (Interview-ready answer: No. It creates and versions an S3 bucket only. Kafka, Spark, IAM,) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 232 Td (networking, encryption configuration, logs and alarms remain external.) Tj ET
+0.96 0.48 0.10 rg 52 206 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 211 Td (17) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 209 Td (Did you test Spark?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 191 Td (Interview-ready answer: Current CI does not install runtime Spark or construct the streaming) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 179 Td (graph. I tested pure Python contracts and aggregates; local Spark/Kafka integration is the) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 167 Td (next test layer.) Tj ET
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /FR 3 0 R /FB 4 0 R /FM 5 0 R >> >> /Contents 36 0 R >>
+endobj
+38 0 obj
+<< /Length 4856 >>
+stream
+0.055 0.11 0.20 rg 0 750 612 42 re f
+BT /FB 11 Tf 1 1 1 rg 52 766 Td (Real-Time Customer 360) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 52 26 Td (Interview Handbook | SudamaPandit/real-time-customer-360-data-platform) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 535 26 Td (17) Tj ET
+BT /FB 22 Tf 0.06 0.20 0.36 rg 52 718 Td (Interview Questions \(continued\)) Tj ET
+0.96 0.48 0.10 rg 52 704 72 3 re f
+0.96 0.48 0.10 rg 52 678 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 683 Td (18) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 681 Td (How would you test restart recovery?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 663 Td (Interview-ready answer: Start a query with a durable checkpoint, publish known events, stop) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 651 Td (it, publish more events, restart with the same checkpoint and verify all intended events) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 639 Td (appear once according to the sink contract.) Tj ET
+0.96 0.48 0.10 rg 52 613 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 618 Td (19) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 616 Td (How would you reconcile streaming aggregates?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 598 Td (Interview-ready answer: Retain durable event history, periodically recompute authoritative) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 586 Td (customer metrics for a bounded range, compare them with serving results and apply idempotent) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 574 Td (corrections.) Tj ET
+0.96 0.48 0.10 rg 52 548 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 553 Td (20) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 551 Td (What is your schema evolution strategy?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 533 Td (Interview-ready answer: Version the event contract, enforce producer compatibility through a) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 521 Td (registry, allow reviewed additive changes and quarantine incompatible payloads.) Tj ET
+0.96 0.48 0.10 rg 52 495 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 500 Td (21) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 498 Td (How would you choose Kafka partition keys?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 480 Td (Interview-ready answer: For per-customer ordering I would key by customer_id, while) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 468 Td (balancing skew and required throughput. I would measure hot customers before finalizing) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 456 Td (partition count.) Tj ET
+0.96 0.48 0.10 rg 52 430 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 435 Td (22) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 433 Td (How would you control state growth?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 415 Td (Interview-ready answer: Use event-time watermarks and bounded state, avoid unbounded group) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 403 Td (state, monitor state-store size and choose checkpoint storage with adequate throughput.) Tj ET
+0.96 0.48 0.10 rg 52 377 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 382 Td (23) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 380 Td (Why is payload a string in Spark?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 362 Td (Interview-ready answer: It keeps the compact schema flexible, but it sacrifices typed) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 350 Td (validation. Production should define versioned payload schemas by event type or preserve raw) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 338 Td (JSON plus normalized fields.) Tj ET
+0.96 0.48 0.10 rg 52 312 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 317 Td (24) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 315 Td (What would fail first at high volume?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 297 Td (Interview-ready answer: Small-file growth, checkpoint/storage throughput or partition skew) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 285 Td (are likely early issues. The offline pandas aggregation would also fail if used on large) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 273 Td (history.) Tj ET
+0.96 0.48 0.10 rg 52 247 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 252 Td (25) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 250 Td (What is the first production change?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 232 Td (Interview-ready answer: Persist invalid records and establish live deduplication/late-data) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 220 Td (rules, because correctness and recoverability must be defined before scaling.) Tj ET
+0.96 0.48 0.10 rg 52 194 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 199 Td (26) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 197 Td (Did you deploy this project?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 179 Td (Interview-ready answer: I describe it as a working portfolio implementation with passing) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 167 Td (unit CI, not as a production deployment. The repository proves specific code paths; a) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 155 Td (staging environment and integration evidence are still required.) Tj ET
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /FR 3 0 R /FB 4 0 R /FM 5 0 R >> >> /Contents 38 0 R >>
+endobj
+40 0 obj
+<< /Length 5179 >>
+stream
+0.055 0.11 0.20 rg 0 750 612 42 re f
+BT /FB 11 Tf 1 1 1 rg 52 766 Td (Real-Time Customer 360) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 52 26 Td (Interview Handbook | SudamaPandit/real-time-customer-360-data-platform) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 535 26 Td (18) Tj ET
+BT /FB 22 Tf 0.06 0.20 0.36 rg 52 718 Td (Interview Questions \(continued\)) Tj ET
+0.96 0.48 0.10 rg 52 704 72 3 re f
+0.96 0.48 0.10 rg 52 678 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 683 Td (27) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 681 Td (What exactly did you test?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 663 Td (Interview-ready answer: I tested Python event contracts, offline quality failures, customer) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 651 Td (aggregation and AI configuration. Those tests run offline and isolate deterministic) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 639 Td (behavior, so I do not claim they validate live external services.) Tj ET
+0.96 0.48 0.10 rg 52 613 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 618 Td (28) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 616 Td (Why does green CI not prove the platform works?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 598 Td (Interview-ready answer: CI executes syntax and unit tests, but it does not automatically) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 586 Td (prove networking, IAM, service configuration, runtime compatibility or end-to-end data) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 574 Td (correctness. I would add integration and staging smoke tests for that evidence.) Tj ET
+0.96 0.48 0.10 rg 52 548 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 553 Td (29) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 551 Td (What is the biggest gap?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 533 Td (Interview-ready answer: The most important gap is silent loss of invalid streaming rows and) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 521 Td (absence of live deduplication. I would address it before calling the system) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 509 Td (production-ready.) Tj ET
+0.96 0.48 0.10 rg 52 483 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 488 Td (30) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 486 Td (How do you handle secrets?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 468 Td (Interview-ready answer: The repository should contain examples only. I would use workload) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 456 Td (identities or IAM roles for cloud access and a managed secret backend for database) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 444 Td (credentials, with least privilege and rotation.) Tj ET
+0.96 0.48 0.10 rg 52 418 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 423 Td (31) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 421 Td (How do you handle logging?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 403 Td (Interview-ready answer: I would use structured logs with run or batch identifiers, input and) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 391 Td (output counts, durations, quality results and error categories. I would avoid raw customer) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 379 Td (data and make logs searchable in a central platform.) Tj ET
+0.96 0.48 0.10 rg 52 353 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 358 Td (32) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 356 Td (How do you monitor data freshness?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 338 Td (Interview-ready answer: I would record the newest processed event or business timestamp and) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 326 Td (compare it with the freshness SLA. Breaches should alert with the affected dataset and last) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 314 Td (successful run.) Tj ET
+0.96 0.48 0.10 rg 52 288 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 293 Td (33) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 291 Td (How do you make retries safe?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 273 Td (Interview-ready answer: Every side effect needs an idempotency key or deterministic batch) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 261 Td (identifier. I would isolate run outputs, use upserts or transactional publication, and) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 249 Td (ensure a retry cannot duplicate or overwrite another run.) Tj ET
+0.96 0.48 0.10 rg 52 223 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 228 Td (34) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 226 Td (How do you support backfills?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 208 Td (Interview-ready answer: I would parameterize a bounded time range, use run-specific outputs,) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 196 Td (limit concurrency, reconcile every partition, and record completion in a control table so a) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 184 Td (failed slice can be resumed safely.) Tj ET
+0.96 0.48 0.10 rg 52 158 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 163 Td (35) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 161 Td (How do you prevent schema drift?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 143 Td (Interview-ready answer: I would define an explicit versioned contract, validate it at) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 131 Td (ingestion, quarantine incompatible records, test producer-consumer compatibility and allow) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 119 Td (only reviewed evolution.) Tj ET
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /FR 3 0 R /FB 4 0 R /FM 5 0 R >> >> /Contents 40 0 R >>
+endobj
+42 0 obj
+<< /Length 5095 >>
+stream
+0.055 0.11 0.20 rg 0 750 612 42 re f
+BT /FB 11 Tf 1 1 1 rg 52 766 Td (Real-Time Customer 360) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 52 26 Td (Interview Handbook | SudamaPandit/real-time-customer-360-data-platform) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 535 26 Td (19) Tj ET
+BT /FB 22 Tf 0.06 0.20 0.36 rg 52 718 Td (Interview Questions \(continued\)) Tj ET
+0.96 0.48 0.10 rg 52 704 72 3 re f
+0.96 0.48 0.10 rg 52 678 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 683 Td (36) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 681 Td (How would you improve CI?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 663 Td (Interview-ready answer: I would keep fast unit checks, add linting and dependency scanning,) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 651 Td (then add targeted integration jobs using ephemeral infrastructure. Live staging smoke tests) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 639 Td (should run separately with tightly scoped credentials.) Tj ET
+0.96 0.48 0.10 rg 52 613 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 618 Td (37) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 616 Td (How would you test external services?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 598 Td (Interview-ready answer: I would combine client stubs for request contracts, local or) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 586 Td (containerized substitutes where accurate, and a small real staging test for service-specific) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 574 Td (behavior that emulators cannot prove.) Tj ET
+0.96 0.48 0.10 rg 52 548 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 553 Td (38) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 551 Td (How do you protect customer data?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 533 Td (Interview-ready answer: I would minimize collected fields, encrypt in transit and at rest,) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 521 Td (restrict access by role and prefix/table, mask sensitive fields, set retention policies and) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 509 Td (audit access.) Tj ET
+0.96 0.48 0.10 rg 52 483 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 488 Td (39) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 486 Td (How do you estimate capacity?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 468 Td (Interview-ready answer: I would measure arrival rate, record size, daily volume, peak) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 456 Td (concurrency, transformation cost and downstream throughput. Those numbers drive) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 444 Td (partitioning, compute sizing and retention choices.) Tj ET
+0.96 0.48 0.10 rg 52 418 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 423 Td (40) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 421 Td (What happens when data quality fails?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 403 Td (Interview-ready answer: Production should stop publication for critical failures, persist) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 391 Td (rejected records with reason codes, alert the owner and support corrected replay.) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 379 Td (Warning-level rules can continue with explicit metrics.) Tj ET
+0.96 0.48 0.10 rg 52 353 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 358 Td (41) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 356 Td (How do you prove lineage?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 338 Td (Interview-ready answer: I would attach run ID, source window, input location, code version) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 326 Td (and output location to a run manifest and integrate those records with a catalog or lineage) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 314 Td (platform.) Tj ET
+0.96 0.48 0.10 rg 52 288 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 293 Td (42) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 291 Td (What would you document for operations?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 273 Td (Interview-ready answer: I would document SLAs, owners, dependencies, restart and backfill) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 261 Td (procedures, common failure signatures, data contracts, access requirements and rollback) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 249 Td (steps.) Tj ET
+0.96 0.48 0.10 rg 52 223 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 228 Td (43) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 226 Td (What would fail first at scale?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 208 Td (Interview-ready answer: The first bottleneck is likely small files/checkpoint pressure in) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 196 Td (streaming and the offline pandas aggregation if applied to full history. I would validate) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 184 Td (that with load tests and redesign before increasing volume.) Tj ET
+0.96 0.48 0.10 rg 52 158 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 163 Td (44) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 161 Td (How do you control cost?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 143 Td (Interview-ready answer: I would right-size compute, prune partitions, compact small files,) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 131 Td (apply storage lifecycle rules, cap retries and timeouts, and publish per-run cost and volume) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 119 Td (metrics.) Tj ET
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /FR 3 0 R /FB 4 0 R /FM 5 0 R >> >> /Contents 42 0 R >>
+endobj
+44 0 obj
+<< /Length 3629 >>
+stream
+0.055 0.11 0.20 rg 0 750 612 42 re f
+BT /FB 11 Tf 1 1 1 rg 52 766 Td (Real-Time Customer 360) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 52 26 Td (Interview Handbook | SudamaPandit/real-time-customer-360-data-platform) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 535 26 Td (20) Tj ET
+BT /FB 22 Tf 0.06 0.20 0.36 rg 52 718 Td (Interview Questions \(continued\)) Tj ET
+0.96 0.48 0.10 rg 52 704 72 3 re f
+0.96 0.48 0.10 rg 52 678 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 683 Td (45) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 681 Td (What would you change in your first week?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 663 Td (Interview-ready answer: I would first add evidence around the highest-risk path: add) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 651 Td (quarantine, streaming deduplication/watermarking, a runnable entry point and Kafka/Spark) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 639 Td (restart tests. Then I would update the runbook and architecture based on measured results.) Tj ET
+0.96 0.48 0.10 rg 52 613 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 618 Td (46) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 616 Td (How do you explain a limitation without weakening your interview?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 598 Td (Interview-ready answer: I state the boundary directly, explain why the current choice was) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 586 Td (reasonable for a portfolio scope, cite what is actually tested, and give a concrete) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 574 Td (production solution.) Tj ET
+0.96 0.48 0.10 rg 52 548 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 553 Td (47) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 551 Td (Why should an interviewer value this project?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 533 Td (Interview-ready answer: It shows that I understand the complete data lifecycle and can) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 521 Td (review my own design critically. I can discuss implementation, tests, failure modes and) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 509 Td (realistic hardening rather than only drawing an architecture.) Tj ET
+0.96 0.48 0.10 rg 52 483 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 488 Td (48) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 486 Td (How would you perform a production readiness review?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 468 Td (Interview-ready answer: I would review correctness, recoverability, security, scalability,) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 456 Td (observability, deployment, cost and ownership. Each requirement needs evidence, not only) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 444 Td (code presence.) Tj ET
+0.96 0.48 0.10 rg 52 418 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 423 Td (49) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 421 Td (What is your rollback strategy?) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 403 Td (Interview-ready answer: I would version code and data outputs, publish atomically, retain) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 391 Td (the previous valid version, and make consumers switch through a controlled pointer or view.) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 379 Td (Rollback steps must be tested.) Tj ET
+0.96 0.48 0.10 rg 52 353 24 18 re f
+BT /FB 9 Tf 1 1 1 rg 57 358 Td (50) Tj ET
+BT /FB 10.5 Tf 0.06 0.20 0.36 rg 86 356 Td (Give the honest one-line status.) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 338 Td (Interview-ready answer: This is a compact, technically useful portfolio implementation with) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 326 Td (verified unit behavior and clearly documented production gaps; it is not a fully deployed) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 52 314 Td (platform.) Tj ET
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /FR 3 0 R /FB 4 0 R /FM 5 0 R >> >> /Contents 44 0 R >>
+endobj
+46 0 obj
+<< /Length 1973 >>
+stream
+0.055 0.11 0.20 rg 0 750 612 42 re f
+BT /FB 11 Tf 1 1 1 rg 52 766 Td (Real-Time Customer 360) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 52 26 Td (Interview Handbook | SudamaPandit/real-time-customer-360-data-platform) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 535 26 Td (21) Tj ET
+BT /FB 22 Tf 0.06 0.20 0.36 rg 52 718 Td (Rapid Revision Sheet) Tj ET
+0.96 0.48 0.10 rg 52 704 72 3 re f
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 681 Td (One-minute memory map) Tj ET
+BT /FB 10 Tf 0.96 0.48 0.10 rg 52 656 Td (>) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 68 656 Td (Flow: producers -> Kafka -> Spark -> valid date-partitioned Parquet -> dbt/pandas) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 68 644 Td (aggregation.) Tj ET
+BT /FB 10 Tf 0.96 0.48 0.10 rg 52 629 Td (>) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 68 629 Td (Checkpoint exists as configuration; restart behavior is not integration tested.) Tj ET
+BT /FB 10 Tf 0.96 0.48 0.10 rg 52 614 Td (>) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 68 614 Td (Invalid stream rows are filtered, not quarantined.) Tj ET
+BT /FB 10 Tf 0.96 0.48 0.10 rg 52 599 Td (>) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 68 599 Td (Live duplicate and late-event handling are not implemented.) Tj ET
+BT /FB 10 Tf 0.96 0.48 0.10 rg 52 584 Td (>) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 68 584 Td (dbt expects an external silver source; Terraform covers S3 only.) Tj ET
+BT /FB 10 Tf 0.96 0.48 0.10 rg 52 569 Td (>) Tj ET
+BT /FR 9.2 Tf 0.12 0.15 0.19 rg 68 569 Td (Testing truth: pure Python CI, not live Kafka/Spark.) Tj ET
+BT /FB 15 Tf 0.06 0.27 0.48 rg 52 554 Td (Safe sentence when challenged) Tj ET
+BT /FB 9.5 Tf 0.12 0.15 0.19 rg 52 529 Td (The repository demonstrates the design and unit-tests specific offline behavior. It does not) Tj ET
+BT /FB 9.5 Tf 0.12 0.15 0.19 rg 52 516 Td (prove every external integration or a production deployment. I can show exactly what is) Tj ET
+BT /FB 9.5 Tf 0.12 0.15 0.19 rg 52 503 Td (verified and what I would add to prove the remaining path.) Tj ET
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /FR 3 0 R /FB 4 0 R /FM 5 0 R >> >> /Contents 46 0 R >>
+endobj
+48 0 obj
+<< /Length 2160 >>
+stream
+0.055 0.11 0.20 rg 0 750 612 42 re f
+BT /FB 11 Tf 1 1 1 rg 52 766 Td (Real-Time Customer 360) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 52 26 Td (Interview Handbook | SudamaPandit/real-time-customer-360-data-platform) Tj ET
+BT /FR 8 Tf 0.35 0.39 0.45 rg 535 26 Td (22) Tj ET
+BT /FB 22 Tf 0.06 0.20 0.36 rg 52 718 Td (Glossary) Tj ET
+0.96 0.48 0.10 rg 52 704 72 3 re f
+0.08 0.25 0.43 rg 52 665 510 20 re f
+BT /FB 8 Tf 1 1 1 rg 57 673 Td (Term) Tj ET
+BT /FB 8 Tf 1 1 1 rg 207 673 Td (Meaning) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 653 Td (Kafka) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 207 653 Td (Distributed retained event log.) Tj ET
+0.96 0.97 0.98 rg 52 625 510 20 re f
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 633 Td (Topic) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 207 633 Td (Named Kafka event stream.) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 613 Td (Partition) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 207 613 Td (Ordered shard of a Kafka topic.) Tj ET
+0.96 0.97 0.98 rg 52 585 510 20 re f
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 593 Td (Structured Streaming) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 207 593 Td (Spark API for incremental stream processing.) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 573 Td (Checkpoint) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 207 573 Td (Durable offsets and state for restart.) Tj ET
+0.96 0.97 0.98 rg 52 545 510 20 re f
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 553 Td (Event time) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 207 553 Td (Time the business event occurred.) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 533 Td (Ingest time) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 207 533 Td (Time the pipeline observed the event.) Tj ET
+0.96 0.97 0.98 rg 52 505 510 20 re f
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 513 Td (Watermark) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 207 513 Td (Boundary for late event/state cleanup.) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 493 Td (Customer 360) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 207 493 Td (Consolidated customer-level representation.) Tj ET
+0.96 0.97 0.98 rg 52 465 510 20 re f
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 57 473 Td (dbt) Tj ET
+BT /FR 7.7 Tf 0.12 0.15 0.19 rg 207 473 Td (SQL transformation and testing framework.) Tj ET
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /FR 3 0 R /FB 4 0 R /FM 5 0 R >> >> /Contents 48 0 R >>
+endobj
+50 0 obj
+<< /Type /Annot /Subtype /Link /Rect [58 667 558 685] /Border [0 0 0] /A << /S /GoTo /D [13 0 R /Fit] >> >>
+endobj
+51 0 obj
+<< /Type /Annot /Subtype /Link /Rect [58 625 558 643] /Border [0 0 0] /A << /S /GoTo /D [15 0 R /Fit] >> >>
+endobj
+52 0 obj
+<< /Type /Annot /Subtype /Link /Rect [58 583 558 601] /Border [0 0 0] /A << /S /GoTo /D [17 0 R /Fit] >> >>
+endobj
+53 0 obj
+<< /Type /Annot /Subtype /Link /Rect [58 541 558 559] /Border [0 0 0] /A << /S /GoTo /D [19 0 R /Fit] >> >>
+endobj
+54 0 obj
+<< /Type /Annot /Subtype /Link /Rect [58 499 558 517] /Border [0 0 0] /A << /S /GoTo /D [21 0 R /Fit] >> >>
+endobj
+55 0 obj
+<< /Type /Annot /Subtype /Link /Rect [58 457 558 475] /Border [0 0 0] /A << /S /GoTo /D [23 0 R /Fit] >> >>
+endobj
+56 0 obj
+<< /Type /Annot /Subtype /Link /Rect [58 415 558 433] /Border [0 0 0] /A << /S /GoTo /D [27 0 R /Fit] >> >>
+endobj
+57 0 obj
+<< /Type /Annot /Subtype /Link /Rect [58 682 558 700] /Border [0 0 0] /A << /S /GoTo /D [29 0 R /Fit] >> >>
+endobj
+58 0 obj
+<< /Type /Annot /Subtype /Link /Rect [58 640 558 658] /Border [0 0 0] /A << /S /GoTo /D [31 0 R /Fit] >> >>
+endobj
+59 0 obj
+<< /Type /Annot /Subtype /Link /Rect [58 598 558 616] /Border [0 0 0] /A << /S /GoTo /D [33 0 R /Fit] >> >>
+endobj
+60 0 obj
+<< /Type /Annot /Subtype /Link /Rect [58 556 558 574] /Border [0 0 0] /A << /S /GoTo /D [35 0 R /Fit] >> >>
+endobj
+61 0 obj
+<< /Type /Annot /Subtype /Link /Rect [58 514 558 532] /Border [0 0 0] /A << /S /GoTo /D [47 0 R /Fit] >> >>
+endobj
+62 0 obj
+<< /Type /Annot /Subtype /Link /Rect [58 472 558 490] /Border [0 0 0] /A << /S /GoTo /D [49 0 R /Fit] >> >>
+endobj
+63 0 obj
+<< /Type /Outlines /First 64 0 R /Last 76 0 R /Count 13 >>
+endobj
+64 0 obj
+<< /Title (1. Executive summary) /Parent 63 0 R /Next 65 0 R /Dest [13 0 R /Fit] >>
+endobj
+65 0 obj
+<< /Title (2. Beginner foundations) /Parent 63 0 R /Prev 64 0 R /Next 66 0 R /Dest [15 0 R /Fit] >>
+endobj
+66 0 obj
+<< /Title (3. Architecture diagram) /Parent 63 0 R /Prev 65 0 R /Next 67 0 R /Dest [17 0 R /Fit] >>
+endobj
+67 0 obj
+<< /Title (4. End-to-end data flow) /Parent 63 0 R /Prev 66 0 R /Next 68 0 R /Dest [19 0 R /Fit] >>
+endobj
+68 0 obj
+<< /Title (5. Repository structure) /Parent 63 0 R /Prev 67 0 R /Next 69 0 R /Dest [21 0 R /Fit] >>
+endobj
+69 0 obj
+<< /Title (6. Folder-wise code walkthrough) /Parent 63 0 R /Prev 68 0 R /Next 70 0 R /Dest [23 0 R /Fit] >>
+endobj
+70 0 obj
+<< /Title (7. Quality, reliability and security) /Parent 63 0 R /Prev 69 0 R /Next 71 0 R /Dest [27 0 R /Fit] >>
+endobj
+71 0 obj
+<< /Title (8. Testing and CI evidence) /Parent 63 0 R /Prev 70 0 R /Next 72 0 R /Dest [29 0 R /Fit] >>
+endobj
+72 0 obj
+<< /Title (9. Gaps and critical risks) /Parent 63 0 R /Prev 71 0 R /Next 73 0 R /Dest [31 0 R /Fit] >>
+endobj
+73 0 obj
+<< /Title (10. Production-ready redesign) /Parent 63 0 R /Prev 72 0 R /Next 74 0 R /Dest [33 0 R /Fit] >>
+endobj
+74 0 obj
+<< /Title (11. Fifty interview questions) /Parent 63 0 R /Prev 73 0 R /Next 75 0 R /Dest [35 0 R /Fit] >>
+endobj
+75 0 obj
+<< /Title (12. Rapid revision sheet) /Parent 63 0 R /Prev 74 0 R /Next 76 0 R /Dest [47 0 R /Fit] >>
+endobj
+76 0 obj
+<< /Title (13. Glossary) /Parent 63 0 R /Prev 75 0 R /Dest [49 0 R /Fit] >>
+endobj
+xref
+0 77
+0000000000 65535 f 
+0000000015 00000 n 
+0000000104 00000 n 
+0000000308 00000 n 
+0000000378 00000 n 
+0000000453 00000 n 
+0000000521 00000 n 
+0000001950 00000 n 
+0000002096 00000 n 
+0000003362 00000 n 
+0000003567 00000 n 
+0000004720 00000 n 
+0000004920 00000 n 
+0000007849 00000 n 
+0000007997 00000 n 
+0000010449 00000 n 
+0000010597 00000 n 
+0000013895 00000 n 
+0000014043 00000 n 
+0000016458 00000 n 
+0000016606 00000 n 
+0000020459 00000 n 
+0000020607 00000 n 
+0000024841 00000 n 
+0000024989 00000 n 
+0000026916 00000 n 
+0000027064 00000 n 
+0000029757 00000 n 
+0000029905 00000 n 
+0000034093 00000 n 
+0000034241 00000 n 
+0000037881 00000 n 
+0000038029 00000 n 
+0000040388 00000 n 
+0000040536 00000 n 
+0000045295 00000 n 
+0000045443 00000 n 
+0000050156 00000 n 
+0000050304 00000 n 
+0000055213 00000 n 
+0000055361 00000 n 
+0000060593 00000 n 
+0000060741 00000 n 
+0000065889 00000 n 
+0000066037 00000 n 
+0000069719 00000 n 
+0000069867 00000 n 
+0000071893 00000 n 
+0000072041 00000 n 
+0000074254 00000 n 
+0000074402 00000 n 
+0000074526 00000 n 
+0000074650 00000 n 
+0000074774 00000 n 
+0000074898 00000 n 
+0000075022 00000 n 
+0000075146 00000 n 
+0000075270 00000 n 
+0000075394 00000 n 
+0000075518 00000 n 
+0000075642 00000 n 
+0000075766 00000 n 
+0000075890 00000 n 
+0000076014 00000 n 
+0000076089 00000 n 
+0000076189 00000 n 
+0000076305 00000 n 
+0000076421 00000 n 
+0000076537 00000 n 
+0000076653 00000 n 
+0000076777 00000 n 
+0000076906 00000 n 
+0000077025 00000 n 
+0000077144 00000 n 
+0000077266 00000 n 
+0000077388 00000 n 
+0000077505 00000 n 
+trailer
+<< /Size 77 /Root 1 0 R >>
+startxref
+77597
+%%EOF
